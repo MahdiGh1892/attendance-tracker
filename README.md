@@ -10,7 +10,7 @@ A Persian-language, mobile-first web app for recording employee check-in/check-o
 
 | Dashboard | Attendance | Employees |
 |---|---|---|
-| ![Dashboard](docs/Home.png) | ![Attendance](docs/Record-Passing.png) | ![Employees](docs/Employees-List.png) |
+| ![Dashboard](docs/Home.png) | ![Attendance](docs/Record-Passing.png) | ![Employees](docs/Employeers-List.png) |
 
 | Reports | Settings |
 |---|---|
