@@ -14,7 +14,7 @@ A Persian-language, mobile-first web app for recording employee check-in/check-o
 
 | Reports | Settings |
 |---|---|
-| ![Reports](docs/Reports.png) | ![Settings](docs/Settings.png) |
+| ![Reports](docs/Reports.png) | ![Settings](docs/Setting.png) |
 
 ## Features
 
