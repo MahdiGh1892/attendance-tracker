@@ -4,8 +4,6 @@ A Persian-language, mobile-first web app for recording employee check-in/check-o
 
 **All data is stored locally on the user's device. Nothing is sent to a server.**
 
-🔗 **Live demo:** https://persian-presence-pal.lovable.app
-
 ---
 
 ## Screenshots
