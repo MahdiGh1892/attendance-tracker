@@ -8,12 +8,13 @@ A Persian-language, mobile-first web app for recording employee check-in/check-o
 
 ## Screenshots
 
-<!-- Replace with your own screenshots, e.g. put images in a /docs folder -->
-| Dashboard | Daily Attendance | Employee File |
+| Dashboard | Attendance | Employees |
 |---|---|---|
-| ![Dashboard](docs/dashboard.png) | ![Today](docs/today.png) | ![Employee](docs/employee.png) |
+| ![Dashboard](docs/home.png) | ![Attendance](docs/record-passing.png) | ![Employees](docs/employees-list.png) |
 
----
+| Reports | Settings |
+|---|---|
+| ![Reports](docs/reports.png) | ![Settings](docs/settings.png) |
 
 ## Features
 
