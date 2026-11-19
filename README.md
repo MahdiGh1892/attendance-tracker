@@ -103,8 +103,8 @@ The repository includes a `bun.lock` file, so Bun is the primary package manager
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/<MahdiGh1892>/<attendance-tracker>.git
+cd <attendance-tracker>
 
 # Install dependencies (use `npm install` if you prefer npm)
 bun install
