@@ -45,7 +45,7 @@ A Persian-language, mobile-first web app for recording employee check-in/check-o
 | **Tailwind CSS v4** | Styling, RTL layout |
 | **shadcn/ui + Radix** | UI components (buttons, dialogs, calendar, etc.) |
 | **Lucide** | Icons |
-| **Vite 7** | Build tool and dev server |
+| **Vite 8** | Build tool and dev server |
 | **Vitest** | Automated tests (13 tests: Jalali calendar, lateness, penalty rules, routing) |
 | **localStorage** | On-device data storage |
 | **PWA Manifest** | Installable on the home screen |
@@ -104,8 +104,8 @@ The repository includes a `bun.lock` file, so Bun is the primary package manager
 
 ```bash
 # Clone the repository
-git clone https://github.com/<MahdiGh1892>/<attendance-tracker>.git
-cd <attendance-tracker>
+git clone https://github.com/MahdiGh1892/attendance-tracker.git
+cd attendance-tracker
 
 # Install dependencies (use `npm install` if you prefer npm)
 bun install
